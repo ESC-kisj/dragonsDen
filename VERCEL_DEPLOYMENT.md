@@ -7,7 +7,7 @@ When deploying to Vercel, you need to set the following environment variables in
 ### Required Environment Variables:
 
 1. **NEXT_PUBLIC_API_BASE_URL**
-   - Value: `http://3.37.138.131:8000`
+   - Value: `http://52.193.121.147:8000`
    - Description: The base URL for the API server
 
 ### How to Set Environment Variables in Vercel:
@@ -17,7 +17,7 @@ When deploying to Vercel, you need to set the following environment variables in
 3. Go to Settings → Environment Variables
 4. Add the following variable:
    - Name: `NEXT_PUBLIC_API_BASE_URL`
-   - Value: `http://3.37.138.131:8000`
+   - Value: `http://52.193.121.147:8000`
    - Environment: Production (and Preview if needed)
 
 ## API Configuration
