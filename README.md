@@ -11,7 +11,7 @@
 Project for KISJ's "Reddit"-like Question Board Website
 
 ## Web Link
-https://school-web-zdso.vercel.app/ 
+https://dragons-den-delta.vercel.app/
 
 ## Demonstration
 <table>
