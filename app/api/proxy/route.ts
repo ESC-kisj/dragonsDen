@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 
 // Allow overriding the backend base URL via env var for local testing
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://3.37.138.131:8000';
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://52.193.121.147:8000';
 
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url);
